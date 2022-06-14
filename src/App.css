@@ -36,3 +36,44 @@
     transform: rotate(360deg);
   }
 }
+
+
+body{
+  box-sizing: border-box;
+  background-color:rgba(246, 246, 246, 1)  ;
+
+}
+
+.grid-container {
+  display: grid;
+  column-gap: 50px;
+  grid-template-columns: auto auto auto;
+  height:100vh;
+text-align: right;
+}
+
+.first {
+  width: 20vw;
+  margin:1.5rem;
+
+  /* background-color: rgba(255, 255, 255, 0.8);
+  border: 1px solid rgba(0, 0, 0, 0.8);
+  padding: 20px;
+  font-size: 30px;
+  text-align: center; */
+}
+.second{ 
+width: 50vw;
+}
+.third{
+  width: 20vw;
+  background-color: #ffff;
+
+}
+
+.sharjeBaghiMandeSimKart{
+border-radius: 1rem;
+}
+.first .sharjeBaghiMandeSimKart{
+  background-color: rgba(255, 252, 239);
+}
