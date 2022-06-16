@@ -1,8 +1,21 @@
 import React from 'react'
+import imgProfile from "./104359134.png"
 
-function Profile() {
+const Profile=()=> {
   return (
-    <div>Profile</div>
+    <div className='profile'>
+      <img src={imgProfile} alt="" id="imgProfile"/>
+      <div className='infoProfile'>
+         <p>
+!سلام، فرشته هستم
+      </p>
+      <p>
+        <a href="https://github.com/fereshtehEsm" >Git:fereshtehEsm</a>
+
+      </p>
+      </div>
+     
+    </div>
   )
 }
 
