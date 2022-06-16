@@ -1,4 +1,4 @@
-import logo from './logo.svg'
+
 import './App.css'
 import sharjChart from './components/Chart2.png'
 import masrafeKolChart from './components/Chart1.png'
@@ -46,6 +46,7 @@ function App() {
         <div> مدیریت سیمکارت</div>
         <div> سوالات متداول</div>
         <div> ارتباط با ما</div>
+        
       </div>
     </div>
   )
