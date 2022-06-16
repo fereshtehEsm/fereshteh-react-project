@@ -4,7 +4,7 @@ import Button from './Button'
 function Jadval() {
   return (
       <div>
-    <div>Jadval</div> <div className="jadval">
+  <div className="jadval">
     <h2>!بسته های پیشنهادی مخصوص خود شما</h2>
     <table>
       <colgroup span="5"></colgroup>
