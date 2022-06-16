@@ -1,9 +1,9 @@
 import React from 'react'
-import downloadIrancell from './components/Rectangle 15.png'
+import downloadIrancell from './Rectangle 15.png'
 import {PatchPlus} from "@styled-icons/bootstrap/PatchPlus"
 import {MessageAltDetail} from "@styled-icons/boxicons-regular/MessageAltDetail"
 import {PackageIcon} from "@styled-icons/boxicons-solid/PackageIcon"
-import sharjChart from './components/Chart2.png'
+import sharjChart from './Chart2.png'
 
 function SharjeBaghiMandeSimKart() {
   return (
